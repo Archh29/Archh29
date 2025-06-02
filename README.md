@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francis Baron B. Uyguangco
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me Facebook, Instagram, and Twitter account.
 
