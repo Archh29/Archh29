@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Francis Baron B. Uyguangco
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me Facebook, Instagram, and Twitter account.
+### 👋 Hello there! I'm Francis Baron B. Uyguangco
+
+- 👨‍💻 Passionate about programming and building useful applications.
+- 🚀 Currently learning **Next.js** to enhance my web development skills.
+- 🤝 Open to collaborating on interesting projects, especially in web development.
+- 📫 Reach me: [Facebook](https://www.facebook.com/Francis385) | [Instagram](https://www.instagram.com/frncsyg_/)
+
 
 <!---
 Archh29/Archh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
